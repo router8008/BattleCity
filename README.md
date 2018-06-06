@@ -12,10 +12,10 @@
 ![](https://github.com/router8008/BattleCity/blob/master/img/4.jpg)
 ![](https://github.com/router8008/BattleCity/blob/master/img/5.jpg)
 ![](https://github.com/router8008/BattleCity/blob/master/img/6.jpg)
+![](https://github.com/router8008/BattleCity/blob/master/img/7.jpg)
 
 ## 相关素材
 
-![](https://github.com/router8008/BattleCity/blob/master/img/7.jpg)
 ![](https://github.com/router8008/BattleCity/blob/master/img/8.jpg)
 ![](https://github.com/router8008/BattleCity/blob/master/img/9.jpg)
 ![](https://github.com/router8008/BattleCity/blob/master/img/10.jpg)
